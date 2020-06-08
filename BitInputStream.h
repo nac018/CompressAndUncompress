@@ -1,11 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: Header file of BitInputStream.cpp
- * Assignment: PA3
- * File: BitInputStream.h
- */
-
 #ifndef BITINPUTSTREAM_H
 #define BITINPUTSTREAM_H
 
