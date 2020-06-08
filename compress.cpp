@@ -1,14 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This class implements the way to read a file
- * 		with bitwise input stream and write all the symbols
- * 		into the Huffman encoding tree to encode it. Then 
- * 		we output the encoded strings to a output file.
- * Assignment: PA3
- * File: compress.cpp
- */
-
 #include <stdio.h>
 #include "HCTree.h"
 #include <utility>
