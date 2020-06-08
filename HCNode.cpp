@@ -1,12 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This class implements the nodes of huffman coding tree.
- * Assignment: PA3
- * File: HCNode.cpp
- */
-
-
 #include "HCNode.h"
 
 using namespace std;
