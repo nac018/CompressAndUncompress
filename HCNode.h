@@ -1,11 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This is a header file of HCNode.cpp
- * Assignment: PA3
- * File: HCNode.h
- */
-
 #ifndef HCNODE_H
 #define HCNODE_H
 
