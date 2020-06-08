@@ -1,14 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This class implements the ways to build a huffman code tree.
- * 		It also implements how we encode and decode input symbols 
- * 		and files with the created tree.
- * Assignment: PA3
- * File: HCTree.cpp
- */
-
-
 #include "HCTree.h"
 
 using namespace std;
