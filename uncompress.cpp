@@ -1,15 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This class implements the way to read a file 
- * 		with bitwise input stream and write all the symbols 
- * 		into the Huffman encoding tree to decode it. Then 
- * 		we output the decoded strings to a output file.
- * Assignment: PA3
- * File: uncompress.cpp
- */
-
-
 #include <stdio.h>
 #include "HCTree.h"
 #include <string>
@@ -65,7 +53,7 @@ int main(int argc, const char * argv[]) {
 			infile >> tempIndex;
 			infile >> temp;
 			//check if the last line of header
-			if (tempIndex ==0 && temp == 0) {
+			if (tempIndex == 0 && temp == 0) {
 				break;
 			}
 			freqs[tempIndex] = temp;
