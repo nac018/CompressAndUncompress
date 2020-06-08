@@ -1,13 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This class implements the way to write on bit
- * 		from the buffer and also send the buffer to 
- * 		the output stream and clear it.
- * Assignment: PA3
- * File: BitOutputStream.cpp
- */
-
 #include "BitOutputStream.h"
 
 /** Send the bitwise buffer to the output stream,
