@@ -1,12 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: This is a header file of HCTree.cpp
- * Assignment: PA3
- * File: HCTree.h
- */
-
-
 #ifndef HCTREE_H
 #define HCTREE_H
 
