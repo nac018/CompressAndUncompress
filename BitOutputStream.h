@@ -1,11 +1,3 @@
-/* Authors: Nang Chen (cs100fao)
- *          Haonan Huang (cs100fbd)		 
- * Date: 11/05/2017
- * Description: Header file of BitOutputStream.cpp
- * Assignment: PA3
- * File: BitOutputStream.h
- */
-
 #ifndef BITOUTPUTSTREAM_H
 #define BITOUTPUTSTREAM_H
 
